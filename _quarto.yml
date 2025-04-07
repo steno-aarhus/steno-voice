@@ -2,10 +2,9 @@ project:
   type: sdca-theme
 
 website:
-  title: "SDCA Research"
-  # TODO: Change REPO-NAME to the name of the current repo
-  site-url: "https://steno-aarhus.github.io/REPO-NAME/"
-  repo-url: "https://github.com/steno-aarhus/REPO-NAME"
+  title: "SDCA Research: Steno Voice"
+  site-url: "https://steno-aarhus.github.io/steno-voice/"
+  repo-url: "https://github.com/steno-aarhus/steno-voice"
   navbar:
     pinned: true
     tools:
