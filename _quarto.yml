@@ -2,7 +2,7 @@ project:
   type: sdca-theme
 
 website:
-  title: "SDCA Research: Steno Voice"
+  title: "SDCA Research"
   site-url: "https://steno-aarhus.github.io/steno-voice/"
   repo-url: "https://github.com/steno-aarhus/steno-voice"
   navbar:
