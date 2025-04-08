@@ -9,9 +9,44 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome To Steno Voice",
+    "title": "Velkommen til StenoVoice",
     "section": "",
-    "text": "Randomly generated ChatGPT text to fill space.\n\nIn a quaint village nestled between rolling hills and meandering streams, the locals gathered every weekend for a lively farmers’ market. The air was filled with the enticing aroma of freshly baked bread and the vibrant colors of stalls displaying an array of fruits and vegetables. Children laughed as they chased each other through the cobblestone streets, creating a joyful symphony that echoed through the charming community.\nMeanwhile, high above the village, fluffy clouds painted the sky in hues of pink and orange as the sun began its descent. A lone eagle soared gracefully, riding the warm currents of air. In the distance, the silhouette of an ancient castle stood tall on a hill, silently witnessing the passage of time. As evening descended, the village transformed into a tranquil oasis, the soft glow of lanterns casting a warm and enchanting ambiance over the cobblestone streets."
+    "text": "StenoVoice er et forskningsprojekt, der sigter mod at undersøge, hvordan vokale biomarkører kan bruges til at vurdere risikoen for hjerte-kar-sygdomme, neuropati og diabetes distress hos personer med diabetes. Projektet har som mål at udvikle og validere metoder til at bruge stemmedata som en ikke-invasiv, let tilgængelig og effektiv måde at overvåge sundhedsrisici på."
+  },
+  {
+    "objectID": "index.html#formål",
+    "href": "index.html#formål",
+    "title": "Velkommen til StenoVoice",
+    "section": "",
+    "text": "StenoVoice er et forskningsprojekt, der sigter mod at undersøge, hvordan vokale biomarkører kan bruges til at vurdere risikoen for hjerte-kar-sygdomme, neuropati og diabetes distress hos personer med diabetes. Projektet har som mål at udvikle og validere metoder til at bruge stemmedata som en ikke-invasiv, let tilgængelig og effektiv måde at overvåge sundhedsrisici på."
+  },
+  {
+    "objectID": "index.html#hvorfor",
+    "href": "index.html#hvorfor",
+    "title": "Velkommen til StenoVoice",
+    "section": "Hvorfor",
+    "text": "Hvorfor\nTraditionelle metoder til at vurdere risikoen for hjerte-kar-sygdomme baserer sig på faktorer som alder, køn og livsstil mv. Men, kan disse metoder forbedres ved bruge andre dataformer såsom stemmen?. StenoVoice udnytter stemmen, som bærer information om sundhedsstatus, til at undersøge om lyden fra stemmen kan forbedre disse traditionelle metoder."
+  },
+  {
+    "objectID": "index.html#hvordan-deltager-man",
+    "href": "index.html#hvordan-deltager-man",
+    "title": "Velkommen til StenoVoice",
+    "section": "Hvordan deltager man",
+    "text": "Hvordan deltager man\nDeltagelse i StenoVoice-projektet kan ske på to måder: 1. StenoVoice: Et klinisk projekt, der foregår på Steno Diabetes Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jensens Boulevard 11, Indgang A. Man kan deltage når man besøger Steno Diabetes Center Aarhus hvor man skal henvende sig til en medarbejder ved indgangen for at blive sat i gang. Selve deltagelse foregår på den måde, at man går ind i en mutebox, besvare et spørgeskemae, laver nogle stemmeøvelser, samt svare på nogle spørgsmål med stemmen. 2. StenoVoice Helbred Midt: Et online projekt for personer, der bliver inviteret via E-boks. Deltagere vil blive bedt om at besvare et spørgeskema og laver nogle stemmeøvelser online.\nDenne video vil gå igennem deltagelsen i projektet:\n[Video-link og tilmeldingslink kommer her]"
+  },
+  {
+    "objectID": "index.html#fremtidsperspektiver",
+    "href": "index.html#fremtidsperspektiver",
+    "title": "Velkommen til StenoVoice",
+    "section": "Fremtidsperspektiver",
+    "text": "Fremtidsperspektiver\nI fremtiden håber vi, at teknologier som StenoVoice kan anvendes bredt i klinisk praksis som en del af regelmæssig sundhedstjek. Vi ser også potentiale i at udvide til at inkludere andre sygdomme og sundhedsproblemer, hvor vokale biomarkører kan spille en rolle i tidlig detektion og risikovurdering."
+  },
+  {
+    "objectID": "index.html#projektledelse",
+    "href": "index.html#projektledelse",
+    "title": "Velkommen til StenoVoice",
+    "section": "Projektledelse",
+    "text": "Projektledelse\nPI: Adam Hulman\nProject Manager og PhD student: Manuel Thomasen"
   },
   {
     "objectID": "directory.html",
