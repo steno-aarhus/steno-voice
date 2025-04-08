@@ -19,8 +19,8 @@ Et klinisk projekt, der foregår på Steno Diabetes Center Aarhus, Aarhus Univer
 
 Et online projekt for personer, der bliver inviteret via E-boks. Deltagere vil blive bedt om at besvare et spørgeskema og laver nogle stemmeøvelser online.
 
-Denne video vil gå igennem deltagelsen i projektet:  
-[Video-link og tilmeldingslink kommer her]
+Denne video vil gennemgå deltagelsen i projektet:  
+[Video-link]
 
 ## Fremtidsperspektiver
 I fremtiden håber vi, at teknologier som StenoVoice kan anvendes bredt i klinisk praksis som en del af regelmæssig sundhedstjek. Vi ser også potentiale i at udvide til at inkludere andre sygdomme og sundhedsproblemer, hvor vokale biomarkører kan spille en rolle i tidlig detektion og risikovurdering.
