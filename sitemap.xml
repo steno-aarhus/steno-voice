@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/LICENSE.html</loc>
-    <lastmod>2025-04-10T09:59:05.593Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
-    <lastmod>2025-04-10T09:59:05.598Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/index.html</loc>
-    <lastmod>2025-04-10T09:59:05.598Z</lastmod>
+    <loc>https://steno-aarhus.github.io/steno-voice/participants/index.html</loc>
+    <lastmod>2025-04-10T10:05:26.823Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/directory.html</loc>
-    <lastmod>2025-04-10T09:59:05.598Z</lastmod>
+    <lastmod>2025-04-10T10:05:26.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/index.html</loc>
+    <lastmod>2025-04-10T10:05:26.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
+    <lastmod>2025-04-10T10:05:26.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/LICENSE.html</loc>
+    <lastmod>2025-04-10T10:05:26.818Z</lastmod>
   </url>
 </urlset>
