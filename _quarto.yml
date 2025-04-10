@@ -11,13 +11,13 @@ website:
       - text: "Om StenoVoice"
         menu:
           - text: "Om StenoVoice"
-            href: about.md
+            href: "https://steno-aarhus.github.io/steno-voice/about.html"
           - text: "For deltagere"
-            href: participants.md
+            href: "https://steno-aarhus.github.io/steno-voice/participants.html"
           - text: "For Researchers"
             href: "https://steno-aarhus.github.io/steno-voice/researchers.html"
           - text: "SOP"
-            href: SOP.md
+            href: "https://steno-aarhus.github.io/steno-voice/SOP.html"
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
