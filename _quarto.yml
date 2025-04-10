@@ -15,7 +15,7 @@ website:
           - text: "For deltagere"
             href: participants.md
           - text: "For Researchers"
-            href: researchers.md
+            href: "https://steno-aarhus.github.io/steno-voice/researchers.html"
           - text: "SOP"
             href: SOP.md
     tools:
