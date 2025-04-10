@@ -1,0 +1,68 @@
+---
+title: "SOP: Deltagerforløb i StenoVoice"
+author: "Manuel Thomasen"
+date: "2025-04-10"
+---
+
+# 1. Formål
+
+Dette dokument beskriver den standardiserede procedure for gennemførelse af deltagerforløbet i StenoVoice i forbindelse med stemmeoptagelser og spørgeskemaudfyldelse.
+
+# 2. Anvendelsesområde
+
+Proceduren gælder for alle medarbejdere involveret i modtagelse, instruktion og vejledning af deltagere i StenoVoice under dataindsamling i forbindelse med StenoVoice projektet.
+
+# 3. Ansvar
+
+Det er medarbejderens (ninjaens) ansvar at sikre, at deltageren informeres korrekt, vejledes i brugen af udstyr og procedurer, samt at Muteboxen klargøres til næste deltager efter gennemført session.
+
+# 4. Materialer og udstyr
+
+- Mutebox 
+- Computer med link til spørgeskema  
+- Mikrofon og headset (RØDE NT1 condencer microphone + RØDE AI-1 Single-channel Audio Interface + stativ + RØDE headset
+- Instruktionsmateriale til justering af mirkofon og headset (papir print på væg)
+- bord og stol
+
+# 5. Procedure
+
+## 5.1 Modtagelse og introduktion
+
+1. Deltageren henvender sig til en medarbejder ved ankomst.  
+2. Medarbejderen byder velkommen og giver en kort introduktion til projektet og forløbet i Muteboxen.  
+3. Deltageren følges ind i Muteboxen og sætter sig til rette.  
+
+## 5.2 Instruktion
+
+4. Medarbejderen instruerer deltageren i følgende:
+   - Hvordan spørgeskemaet åbnes og udfyldes  
+   - Hvordan stemmeoptagelser gennemføres  
+   - Korrekt placering og brug af mikrofon og headset  
+
+## 5.3 Gennemførelse
+
+5. Deltageren udfylder spørgeskemaet på skærmen.  
+6. Deltageren gennemfører herefter følgende stemmeopgaver:
+
+   - Læs en kort tekst højt  
+   - Sig vokallyden "Aaaaaa" så længe som muligt på ét åndedrag i normalt lydniveau  
+   - Tæl højt fra 1 til 20  
+   - Gentag stavelserne *PaTaKa* så mange gange som muligt i 10 sekunder  
+   - Beskriv livet med diabetes i frit tale  
+   - Svar på ét eller flere åbne spørgsmål, fx: (opdateres)
+     - "Hvordan var dit besøg på Steno Centeret i dag?"  
+     - Andre valgfri spørgsmål, efter behov  
+
+## 5.4 Afslutning
+
+7. Når alle opgaver er gennemført, informeres deltageren om, at forløbet er afsluttet.  
+8. Deltageren forlader Muteboxen.  
+9. Medarbejderen sikrer, at Muteboxen ryddes og klargøres til næste deltager.
+
+# 6. Kvalitetssikring
+
+Medarbejderen er ansvarlig for at sikre, at alle trin følges systematisk, og at udstyret fungerer korrekt før og efter hver deltager.
+
+# 7. Revision
+
+Dokumentet revideres ved behov og mindst én gang årligt for at sikre overensstemmelse med gældende projektkrav og procedurer.
