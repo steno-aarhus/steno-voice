@@ -7,6 +7,7 @@ website:
   repo-url: "https://github.com/steno-aarhus/steno-voice"
   navbar:
     pinned: true
+    left:
       - text: "Om StenoVoice"
         menu:
           - text: "Om StenoVoice"
