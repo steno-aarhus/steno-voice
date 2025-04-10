@@ -10,13 +10,13 @@ website:
       - text: "Om StenoVoice"
         menu:
           - text: "Om StenoVoice"
-            href: about.qmd
+            href: about.md
           - text: "For deltagere"
-            href: participants.qmd
+            href: participants.md
           - text: "For Researchers"
-            href: researchers.qmd
+            href: researchers.md
           - text: "SOP"
-            href: SOP.qmd
+            href: SOP.md
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
