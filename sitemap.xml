@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/SOP.html</loc>
-    <lastmod>2025-04-10T11:57:26.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/SOP/index.html</loc>
-    <lastmod>2025-04-10T11:57:26.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/LICENSE.html</loc>
-    <lastmod>2025-04-10T11:57:26.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
-    <lastmod>2025-04-10T11:57:26.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/index.html</loc>
-    <lastmod>2025-04-10T11:57:26.722Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/directory.html</loc>
-    <lastmod>2025-04-10T11:57:26.722Z</lastmod>
+    <loc>https://steno-aarhus.github.io/steno-voice/participants/index.html</loc>
+    <lastmod>2025-04-10T11:57:33.309Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/researchers/index.html</loc>
-    <lastmod>2025-04-10T11:57:26.722Z</lastmod>
+    <lastmod>2025-04-10T11:57:33.309Z</lastmod>
   </url>
   <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/participants/index.html</loc>
-    <lastmod>2025-04-10T11:57:26.722Z</lastmod>
+    <loc>https://steno-aarhus.github.io/steno-voice/directory.html</loc>
+    <lastmod>2025-04-10T11:57:33.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/index.html</loc>
+    <lastmod>2025-04-10T11:57:33.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
+    <lastmod>2025-04-10T11:57:33.308Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/LICENSE.html</loc>
+    <lastmod>2025-04-10T11:57:33.303Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/SOP/index.html</loc>
+    <lastmod>2025-04-10T11:57:33.303Z</lastmod>
   </url>
 </urlset>
