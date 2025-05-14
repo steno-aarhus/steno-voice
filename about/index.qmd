@@ -3,9 +3,7 @@ title: "StenoVoice"
 ---
 
 ## Hvad er StenoVoice?
-
-
-## Hvorfor StenoVoice?
+Et forskningsprojekt med det formål at undersøge om stemmen kan bruges til at estimere risikoen for hjerte-kar-sygdomme blandt type 1 diabetiker.
 
 
 ## Hvad går projektet ud på?
