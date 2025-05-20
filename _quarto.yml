@@ -10,7 +10,7 @@ website:
     left:
       - text: "Om StenoVoice"
         menu:
-          - text: "Om StenoVoice"
+          - text: "Mere om StenoVoice"
             href: "https://steno-aarhus.github.io/steno-voice/about"
           - text: "For deltagere"
             href: "https://steno-aarhus.github.io/steno-voice/participants"
