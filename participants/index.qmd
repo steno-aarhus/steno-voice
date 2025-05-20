@@ -1,14 +1,37 @@
 ---
-title: Information til deltagere
-description: Hvis du vil deltage i projektet
+title: "For Deltagere"
 ---
+
+## Hvad er StenoVoice?
+
+**StenoVoice** er et forskningsprojekt ved Steno Diabetes Center Aarhus, hvor vi undersøger, om stemmen kan bruges til at sige noget om helbredet hos personer med og uden diabetes. Ved at analysere stemmeoptagelser med hjælp fra kunstig intelligens håber vi at kunne udvikle nye, ikke-invasive metoder til at opdage sygdomme som hjertekarsygdom, neuropati og diabetesrelateret stress.
+
+## Hvad indebærer det at deltage?
+
+Som deltager i StenoVoice bliver du bedt om at udføre nogle korte stemmeopgaver. Det kan f.eks. være:
+
+- At sige "aaaah" så længe du kan  
+- At tælle højt fra 1 til 20  
+- At læse en kort tekst højt  
+- At gentage stavelser som *Pa-Ta-Ka* i 10 sekunder  
+- At tale frit om, hvordan det er at leve med diabetes  
+
+Afhængigt af hvilken del af projektet du deltager i, kan stemmeoptagelserne enten blive foretaget på hospitalet eller hjemme via din mobiltelefon eller computer.
+
+## Hvorfor er din deltagelse vigtig?
+
+Diabetes kan påvirke kroppen på mange måder – også de dele, vi bruger til at tale med. Ved at indsamle stemmeoptagelser fra mange forskellige mennesker kan vi undersøge, om der er bestemte mønstre i stemmen, som hænger sammen med helbredstilstanden. Din stemme er med til at give forskningen en stærkere stemme.
+
+Ved at deltage bidrager du til forskning, der kan gøre fremtidens behandling af diabetes mere præcis, personlig og tilgængelig – også for dem, der bor langt væk fra hospitalet.
 
 ## Hvem kan deltage?
 
-## Hvornår kan jeg deltage?
+Vi inviterer både personer med og uden diabetes til at deltage i projektet. Du behøver ikke nogen særlige forudsætninger, og det tager kun få minutter at udføre stemmeopgaverne.
 
-## Hvad går forsøget ud på?
+Hvis du har fået en invitation, kan du trygt følge instruktionerne i beskeden. Har du spørgsmål, er du meget velkommen til at kontakte os.
 
-## Hvad får jeg ud af at deltage?
+## Kontakt
 
-## Videogennemgang
+**Ph.d.-studerende:**  
+Manuel Thomasen  
+[manuth@rm.dk](mailto:manuth@rm.dk) / [manuth@ph.au.dk](mailto:manuth@ph.au.dk)
