@@ -11,19 +11,23 @@ The StenoVoice project is an interdisciplinary initiative aiming to develop and 
 
 ### Study 1: Vocal Biomarkers for Cardiovascular Disease
 This study focuses on:
+
 - Initiating voice data collection nested in an existing population-based cohort, i.e., Health in Central Denmark (HICD), and to identify and validate vocal biomarkers for CVD in the general population.
 
 ### Study 2: Vocal Biomarkers for Diabetic Neuropathy
 This study seeks to:
+
 - Identify vocal biomarkers of neuropathy in people with type 1 diabetes (T1D) and type 2 diabetes (T2D). 
 
 ### Study 3: Multimodal Assessment of Diabetes Distress
 This study aims to:
+
 - Develop a multimodal approach to detect diabetes distress based on voice recordings and audio transcriptions by people with T1D and T2D.
 
 ## Methodology
 
 We use a multi-step approach to data processing and analysis:
+
 - **Voice Data:** Preprocessing includes filtering, silence removal, noise reduction, framing, windowing, feature extraction, and feature selection, among other things.
 - **Text Data:** Natural language processing techniques are applied to transcribed responses.
 - **Modeling:** Predictive models include both classical machine learning and deep learning approaches.
@@ -31,6 +35,7 @@ We use a multi-step approach to data processing and analysis:
 ## Collaborations
 
 The project is conducted in collaboration with:
+
 - **Luxembourg Institute of Health**, with the involvement of Guy Fagherazzi, Director of the Department of Precision Health & Head of the "Deep Digital Phenotyping" Research Unit
 - **Steno Diabetes Center Copenhagen**, with the involvement of Christian Stevns Hansen
 
