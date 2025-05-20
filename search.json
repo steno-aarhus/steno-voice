@@ -11,35 +11,49 @@
     "href": "about/index.html",
     "title": "StenoVoice",
     "section": "",
-    "text": "Et forskningsprojekt med det formål at undersøge om stemmen kan bruges til at estimere risikoen for hjerte-kar-sygdomme blandt type 1 diabetiker."
+    "text": "StenoVoice er et forskningsprojekt ved Steno Diabetes Center Aarhus, der undersøger, hvordan stemmen kan anvendes som en digital biomarkør til at forudsige og overvåge diabetesrelaterede komplikationer. Ved hjælp af avancerede metoder inden for kunstig intelligens og maskinlæring analyserer vi stemmeoptagelser for at identificere karakteristika i stemmen, der kan afspejle helbredstilstande såsom hjertekarsygdomme, diabetisk neuropati og diabetesrelateret stress.\nDiabetes kan påvirke flere organer og funktioner, som er centrale for stemmeproduktionen – herunder nerver og muskler, der styrer strubehovedet og åndedrættet. Tidligere studier har vist, at personer med type 2-diabetes kan opleve ændringer i stemmekvalitet, fx hæshed og stemmetræthed, hvilket kan være relateret til dårlig glykæmisk kontrol eller tilstedeværelse af neuropati."
   },
   {
-    "objectID": "about/index.html#hvad-er-stenovoice",
-    "href": "about/index.html#hvad-er-stenovoice",
+    "objectID": "about/index.html#baggrund-og-vision",
+    "href": "about/index.html#baggrund-og-vision",
     "title": "StenoVoice",
     "section": "",
-    "text": "Et forskningsprojekt med det formål at undersøge om stemmen kan bruges til at estimere risikoen for hjerte-kar-sygdomme blandt type 1 diabetiker."
+    "text": "StenoVoice er et forskningsprojekt ved Steno Diabetes Center Aarhus, der undersøger, hvordan stemmen kan anvendes som en digital biomarkør til at forudsige og overvåge diabetesrelaterede komplikationer. Ved hjælp af avancerede metoder inden for kunstig intelligens og maskinlæring analyserer vi stemmeoptagelser for at identificere karakteristika i stemmen, der kan afspejle helbredstilstande såsom hjertekarsygdomme, diabetisk neuropati og diabetesrelateret stress.\nDiabetes kan påvirke flere organer og funktioner, som er centrale for stemmeproduktionen – herunder nerver og muskler, der styrer strubehovedet og åndedrættet. Tidligere studier har vist, at personer med type 2-diabetes kan opleve ændringer i stemmekvalitet, fx hæshed og stemmetræthed, hvilket kan være relateret til dårlig glykæmisk kontrol eller tilstedeværelse af neuropati."
   },
   {
-    "objectID": "about/index.html#hvad-går-projektet-ud-på",
-    "href": "about/index.html#hvad-går-projektet-ud-på",
+    "objectID": "about/index.html#forskningsmål-og-studier",
+    "href": "about/index.html#forskningsmål-og-studier",
     "title": "StenoVoice",
-    "section": "Hvad går projektet ud på?",
-    "text": "Hvad går projektet ud på?"
+    "section": "Forskningsmål og studier",
+    "text": "Forskningsmål og studier\nProjektet er organiseret i tre hovedstudier med hver deres specifikke forskningsspørgsmål:\n\nVokale biomarkører for hjertekarsygdomme\nFormålet med dette studie er at identificere og validere vokale biomarkører, der kan forudsige hjertekarsygdomme. Data stammer fra stemmeoptagelser og kliniske oplysninger fra den regionale kohorte Helbred Midt.\nVokale biomarkører for diabetisk neuropati\nDette studie undersøger, hvorvidt diabetisk neuropati påvirker stemmen hos personer med type 1 og type 2-diabetes, og om disse ændringer i stemmen kan identificeres uafhængigt af andre kendte risikofaktorer.\nVokale biomarkører til vurdering af diabetesrelateret stress\nHer anvendes en multimodal tilgang til at identificere sproglige og vokale signaler på diabetesrelateret stress. Deltagerne besvarer åbne spørgsmål om deres liv med diabetes, og både stemme og indhold analyseres."
   },
   {
-    "objectID": "about/index.html#forventede-resultater",
-    "href": "about/index.html#forventede-resultater",
+    "objectID": "about/index.html#dataindsamling-og-anvendte-metoder",
+    "href": "about/index.html#dataindsamling-og-anvendte-metoder",
     "title": "StenoVoice",
-    "section": "Forventede resultater",
-    "text": "Forventede resultater"
+    "section": "Dataindsamling og anvendte metoder",
+    "text": "Dataindsamling og anvendte metoder\nDeltagerne udfører forskellige stemmeopgaver, herunder:\n\nAt læse en kort tekst højt\n\nAt tælle fra 1 til 20\n\nAt sige en lang ‘aaa’-lyd\n\nAt gentage stavelserne Pa-Ta-Ka hurtigt i 10 sekunder\n\nAt besvare åbne spørgsmål med egne ord\n\nOptagelserne analyseres ved hjælp af moderne metoder inden for kunstig intelligens og maskinlæring. Vi afprøver forskellige tekniske tilgange og repræsentationer af stemmen (f.eks. spektrogrammer og embeddings) for at udvikle de mest informative og robuste vokale biomarkører."
   },
   {
-    "objectID": "about/index.html#fremtidig-anvendelse",
-    "href": "about/index.html#fremtidig-anvendelse",
+    "objectID": "about/index.html#fremtidsperspektiver-og-klinisk-anvendelse",
+    "href": "about/index.html#fremtidsperspektiver-og-klinisk-anvendelse",
     "title": "StenoVoice",
-    "section": "Fremtidig anvendelse",
-    "text": "Fremtidig anvendelse"
+    "section": "Fremtidsperspektiver og klinisk anvendelse",
+    "text": "Fremtidsperspektiver og klinisk anvendelse\nStenoVoice har potentiale til at bidrage væsentligt til fremtidens sundhedsvæsen. Vokale biomarkører er:\n\nIkke-invasive\n\nLet tilgængelige\n\nBillige at indsamle\n\nVelegnede til brug i både klinik og hjemmemiljø\n\nTeknologien kan understøtte tidlig opsporing af komplikationer, rettidig indsats og mere personligt tilpassede behandlingsforløb. Vi ser også muligheder for at udvide brugen af vokale biomarkører til andre sygdomsområder, hvor stemmen kan afspejle ændringer i helbredet."
+  },
+  {
+    "objectID": "about/index.html#kontakt-og-projektledelse",
+    "href": "about/index.html#kontakt-og-projektledelse",
+    "title": "StenoVoice",
+    "section": "Kontakt og projektledelse",
+    "text": "Kontakt og projektledelse\nProjektleder:\nAdam Hulman, Lektor\nadahul@rm.dk\nPh.d.-studerende:\nManuel Thomasen\nmanuth@rm.dk / manuth@ph.au.dk"
+  },
+  {
+    "objectID": "about/index.html#protokol",
+    "href": "about/index.html#protokol",
+    "title": "StenoVoice",
+    "section": "Protokol",
+    "text": "Protokol\nDu kan læse mere om projektets design og metoder i vores forskningsprotokol:\n📄 Download StenoVoice-protokol (PDF)"
   },
   {
     "objectID": "index.html#formål",
