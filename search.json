@@ -42,46 +42,39 @@
     "text": "Fremtidig anvendelse"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Velkommen til StenoVoice",
-    "section": "",
-    "text": "StenoVoice er et forskningsprojekt, der sigter mod at undersøge, hvordan vokale biomarkører kan bruges til at vurdere risikoen for hjerte-kar-sygdomme, neuropati og diabetes distress hos personer med diabetes. Projektet har som mål at udvikle og validere metoder til at bruge stemmedata som en ikke-invasiv, let tilgængelig og effektiv måde at overvåge sundhedsrisici på."
-  },
-  {
     "objectID": "index.html#formål",
     "href": "index.html#formål",
     "title": "Velkommen til StenoVoice",
-    "section": "",
-    "text": "StenoVoice er et forskningsprojekt, der sigter mod at undersøge, hvordan vokale biomarkører kan bruges til at vurdere risikoen for hjerte-kar-sygdomme, neuropati og diabetes distress hos personer med diabetes. Projektet har som mål at udvikle og validere metoder til at bruge stemmedata som en ikke-invasiv, let tilgængelig og effektiv måde at overvåge sundhedsrisici på."
+    "section": "Formål",
+    "text": "Formål\nStenoVoice er et forskningsprojekt ved Steno Diabetes Center Aarhus, hvor vi undersøger, om stemmen kan bruges som et værktøj til at forudsige komplikationer og holde øje med sygdomsudviklingen ved diabetes – som fx hjertekarsygdomme og nerveskader. Ved hjælp af kunstig intelligens og maskine læring vil vi analysere optagelser fra stemmen fra personer for at finde Vocal Biomarker (karakteristika i stemmen), der afspejler helbredstilstand."
   },
   {
-    "objectID": "index.html#hvorfor",
-    "href": "index.html#hvorfor",
+    "objectID": "index.html#hvorfor-udviklere-vi-metoder-som-benytter-stemmen",
+    "href": "index.html#hvorfor-udviklere-vi-metoder-som-benytter-stemmen",
     "title": "Velkommen til StenoVoice",
-    "section": "Hvorfor",
-    "text": "Hvorfor\nTraditionelle metoder til at vurdere risikoen for hjerte-kar-sygdomme baserer sig på faktorer som alder, køn og livsstil mv. Men, kan disse metoder forbedres ved bruge andre dataformer såsom stemmen?. StenoVoice udnytter stemmen, som bærer information om sundhedsstatus, til at undersøge om lyden fra stemmen kan forbedre disse traditionelle metoder."
+    "section": "Hvorfor udviklere vi metoder som benytter stemmen?",
+    "text": "Hvorfor udviklere vi metoder som benytter stemmen?\nTraditionelle statistiske metoder som anvendes i dag til risikovurdering af hjerte-kar-sygdomme baserer sig på statisk information som alder, køn og livsstil, langtidsblodsuker, diabetes varighed, blodtryk mv. Men, kan disse metoder forbedres ved bruge andre dataformer såsom stemmen?. Signaler fra stemmen afspejlet helbred og derfor tror vi på, at man ved hjælp af stemmeoptagelser kan optimere nutidens metoder. Det er nemt at optage stemmen. Alle har adgang til en smartphone eller computer, hvilket gør det muligt at optage stemmen hvor som helst og når som helst. Derfor, kan man med stemmebaseret løsninger, nemt og sikkert få et indblik i helbredet hvilket åbner for fleksibel og resoruceoptimerende implementering. Denne teknologi er et skridt i en retning mod sundhed for alle med; - tidlig sygdomsdiagnostik, - rettiddig behandling, - trykkere liv, - resource optimerende - skalerbare til den brede befolkning og andre sygdomsgrupper."
   },
   {
     "objectID": "index.html#hvordan-deltager-man",
     "href": "index.html#hvordan-deltager-man",
     "title": "Velkommen til StenoVoice",
     "section": "Hvordan deltager man",
-    "text": "Hvordan deltager man\nDeltagelse i StenoVoice-projektet kan ske på to måder:\n\nStenoVoice:\n\nEt klinisk projekt, der foregår på Steno Diabetes Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jensens Boulevard 11, Indgang A. Man kan deltage når man besøger Steno Diabetes Center Aarhus hvor man skal henvende sig til en medarbejder ved indgangen for at blive sat i gang. Selve deltagelse foregår på den måde, at man går ind i en mutebox, besvare et spørgeskemae, laver nogle stemmeøvelser, samt svare på nogle spørgsmål med stemmen.\n\nStenoVoice Helbred Midt:\n\nEt online projekt for personer, der bliver inviteret via E-boks. Deltagere vil blive bedt om at besvare et spørgeskema og laver nogle stemmeøvelser online.\nDenne video vil gennemgå deltagelsen i projektet:\n[Video-link]"
+    "text": "Hvordan deltager man\nDeltagelse i StenoVoice-projektet kan ske på to måder:\n\nStenoVoice:\n\nPå Steno Diabete Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jensens Boulevard 11, Indgang A. 8200 Skejby har vi alokeret en mutebox, hvori man kan bidrage ved at optage sin stemme. Man kan deltage når man besøger Steno Diabetes Center Aarhus til ens årssamtale/sammedagsscreening. Man skal henvende sig til en medarbejder ved indgangen for at blive sat i gang. Selve deltagelse foregår på den måde, at man går ind i en mutebox, besvare et spørgeskemae, laver nogle stemmeøvelser, samt svare på nogle spørgsmål ved at indtale sit svar med stemmen. Information fra spørgeskemaet, sammedagsscreening og de danske registere sammen med stemmeoptagelserne danner fundamentet for udviklingen af Vocal Biomarker.\nSe denne vidoe for at se hvad det går ud på [Video-link]\n\nStenoVoice Helbred Midt:\n\nVi invitere personer fra Helbred Midt Kohorten til at deltage ved et online spørgeskema. Personerne vil modtage en invitation i E-boks hvor de vil blive bedt om at besvare et spørgeskema og optage stemmen “hjemmefra”. Information fra spørgeskemaet og de danske registere sammen med stemmeoptagelserne danner fundamentet for udviklingen af Vocal Biomarker i dette projekt.\nDenne video vil gennemgå deltagelsen i projektet:\n[Video-link]"
   },
   {
     "objectID": "index.html#fremtidsperspektiver",
     "href": "index.html#fremtidsperspektiver",
     "title": "Velkommen til StenoVoice",
     "section": "Fremtidsperspektiver",
-    "text": "Fremtidsperspektiver\nI fremtiden håber vi, at teknologier som StenoVoice kan anvendes bredt i klinisk praksis som en del af regelmæssig sundhedstjek. Vi ser også potentiale i at udvide til at inkludere andre sygdomme og sundhedsproblemer, hvor vokale biomarkører kan spille en rolle i tidlig detektion og risikovurdering."
+    "text": "Fremtidsperspektiver\nI fremtiden håber vi, at teknologier som StenoVoice kan anvendes bredt i klinisk praksis som en del af regelmæssig sundhedstjek. Vi ser også potentiale i at udvide til at inkludere andre sygdomme og sundhedsproblemer, hvor vokale biomarkører kan spille en rolle i tidlig diagnogstik og risikovurdering."
   },
   {
     "objectID": "index.html#projektledelse",
     "href": "index.html#projektledelse",
     "title": "Velkommen til StenoVoice",
     "section": "Projektledelse",
-    "text": "Projektledelse\nPI: Adam Hulman\nProject Manager og PhD student: Manuel Thomasen"
+    "text": "Projektledelse\nPI: Adam Hulman, Associate Professor adahul@rm.dk\nProjektansvarlig og PhD student: Manuel Thomasen manuth@rm.dk / manuth@ph.au.dk"
   },
   {
     "objectID": "SOP/index.html",
