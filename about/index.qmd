@@ -13,7 +13,7 @@ Diabetes kan påvirke flere organer og funktioner, som er centrale for stemmepro
 Projektet er organiseret i tre hovedstudier med hver deres specifikke forskningsspørgsmål:
 
 1. **Vokale biomarkører for hjertekarsygdomme**  
-   Formålet med dette studie er at identificere og validere vokale biomarkører, der kan forudsige hjertekarsygdomme. Data stammer fra stemmeoptagelser og kliniske oplysninger fra den regionale kohorte **Helbred Midt**.
+   Formålet med dette studie er at identificere og validere vokale biomarkører, der kan forudsige hjertekarsygdomme. Data stammer fra stemmeoptagelser og kliniske oplysninger fra den regionale kohorte **Helbred Midt**, samt stemmeoptagelser og kliniske oplysninger fra sammedagsscreenning på hospitalet.
 
 2. **Vokale biomarkører for diabetisk neuropati**  
    Dette studie undersøger, hvorvidt diabetisk neuropati påvirker stemmen hos personer med type 1 og type 2-diabetes, og om disse ændringer i stemmen kan identificeres uafhængigt af andre kendte risikofaktorer.
