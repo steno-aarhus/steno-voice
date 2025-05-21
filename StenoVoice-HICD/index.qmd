@@ -1,4 +1,4 @@
 ---
-title: StenoVoice-HICD
+title: "StenoVoice-HICD"
 ---
 
