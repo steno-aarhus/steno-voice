@@ -1,6 +1,5 @@
 ---
 title: "StenoVoice-HICD"
-format: html
 ---
 
 ::: {.video-container}
