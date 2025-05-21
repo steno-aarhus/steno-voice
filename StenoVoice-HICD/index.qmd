@@ -2,4 +2,4 @@
 title: "StenoVoice-HICD"
 ---
 
-{{< video "https://github.com/steno-aarhus/steno-voice/blob/main/StenoVoice-HICD/draft%20video.mp4" >}}
+{{< video "draft video.mp4" >}}
