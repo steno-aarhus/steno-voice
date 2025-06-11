@@ -53,7 +53,7 @@ Også her anvendes information fra spørgeskemaet og de danske registre sammen m
 I fremtiden håber vi, at teknologier som StenoVoice kan anvendes bredt i klinisk praksis som en del af regelmæssige sundhedstjek. Vi ser også et stort potentiale i at udvide teknologien til andre sygdomsområder, hvor vokale biomarkører kan bidrage til tidlig diagnostik og bedre risikovurdering.
 
 ---
-![Manuel(venstre) og Adam(højre)](images/Adam og Manuel.png)
+![Manuel(venstre) og Adam(højre)](images/Adam og Manuel.jpg)
 ## Kontakt
 
 **PI: Adam Hulman, Associate Professor**  
