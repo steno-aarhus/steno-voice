@@ -36,8 +36,9 @@ Ved ankomst henvender man sig til en medarbejder, som hjælper med at starte for
 
 Oplysninger fra spørgeskemaet, sammedagsscreeningen og de danske registre kombineres med stemmeoptagelserne og danner grundlag for udviklingen af vokale biomarkører.
 
-*Se videoen nedenfor for at få indblik i, hvordan deltagelsen foregår:*  
+<!-- *Se videoen nedenfor for at få indblik i, hvordan deltagelsen foregår:*  
 [Video-link]
+-->
 
 ### 2. **StenoVoice Helbred Midt (online deltagelse)**
 
