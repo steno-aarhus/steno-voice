@@ -46,8 +46,9 @@ Vi inviterer personer fra Helbred Midt-kohorten til at deltage i en online under
 
 Også her anvendes information fra spørgeskemaet og de danske registre sammen med stemmeoptagelserne til at identificere vokale biomarkører.
 
-*Se videoen nedenfor for at få indblik i online-deltagelsen:*  
+<!-- *Se videoen nedenfor for at få indblik i online-deltagelsen:*  
 [Video-link]
+-->
 
 ## Fremtidsperspektiver
 
