@@ -48,10 +48,12 @@ Det er medarbejderens ansvar at sikre, at deltageren informeres korrekt, vejlede
    - Sig vokallyden "Aaaaaa" så længe som muligt på ét åndedrag i normalt lydniveau  
    - Tæl højt fra 1 til 20  
    - Gentag stavelserne *PaTaKa* så mange gange som muligt i 10 sekunder  
-   - Beskriv livet med diabetes i fri tale  <!--
+   - Beskriv livet med diabetes i fri tale  
+<!--
    - Svar på ét eller flere åbne spørgsmål, fx: (opdateres)
      - "Hvordan var dit besøg på Steno Centeret i dag?"  
-     - Andre valgfri spørgsmål, efter behov  -->
+     - Andre valgfri spørgsmål, efter behov  
+-->
 
 ## 5.4 Afslutning
 
