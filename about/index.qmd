@@ -53,7 +53,7 @@ Adam Hulman, Lektor
 **Ph.d.-studerende:**  
 Manuel Thomasen  
 [manuth@rm.dk](mailto:manuth@rm.dk) / [manuth@ph.au.dk](mailto:manuth@ph.au.dk)
-<--!
+<!--
 ## Protokol
 
 Du kan læse mere om projektets design og metoder i vores forskningsprotokol:  
