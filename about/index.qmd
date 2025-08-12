@@ -6,7 +6,7 @@ title: "StenoVoice"
 
 **StenoVoice** er et forskningsprojekt ved Steno Diabetes Center Aarhus, der undersøger, hvordan stemmen kan anvendes som en digital biomarkør til at forudsige og overvåge diabetesrelaterede komplikationer. Ved hjælp af avancerede metoder inden for kunstig intelligens og maskinlæring analyserer vi stemmeoptagelser for at identificere karakteristika i stemmen, der kan afspejle helbredstilstande såsom hjertekarsygdomme, diabetisk neuropati og diabetesrelateret stress.
 
-Diabetes kan påvirke flere organer og funktioner, som er centrale for stemmeproduktionen – herunder nerver og muskler, der styrer strubehovedet og åndedrættet. Tidligere studier har vist, at personer med type 2-diabetes kan opleve ændringer i stemmekvalitet, fx hæshed og stemmetræthed, hvilket kan være relateret til dårlig glykæmisk kontrol eller tilstedeværelse af neuropati.
+Diabetes kan påvirke flere organer og funktioner, som er centrale for stemmeproduktionen – bland andet nerver, muskler, lunger og hjernen. Tidligere studier har vist, at personer med type 2-diabetes kan opleve ændringer i stemmekvalitet, fx hæshed og stemmetræthed, hvilket kan være relateret til dårlig glykæmisk kontrol eller tilstedeværelse af neuropati.
 
 ## Forskningsmål og studier
 
@@ -31,7 +31,7 @@ Deltagerne udfører forskellige stemmeopgaver, herunder:
 - At gentage stavelserne *Pa-Ta-Ka* hurtigt i 10 sekunder  
 - At besvare åbne spørgsmål med egne ord
 
-Optagelserne analyseres ved hjælp af moderne metoder inden for kunstig intelligens og maskinlæring. Vi afprøver forskellige tekniske tilgange og repræsentationer af stemmen (f.eks. spektrogrammer og embeddings) for at udvikle de mest informative og robuste vokale biomarkører.
+Optagelserne analyseres ved hjælp af avanceret metoder inden for kunstig intelligens og maskinlæring. Vi afprøver forskellige tekniske tilgange og repræsentationer af stemmen (f.eks. spektrogrammer og embeddings) for at udvikle de mest informative og robuste vokale biomarkører.
 
 ## Fremtidsperspektiver og klinisk anvendelse
 
@@ -40,7 +40,7 @@ StenoVoice har potentiale til at bidrage væsentligt til fremtidens sundhedsvæs
 - Ikke-invasive  
 - Let tilgængelige  
 - Billige at indsamle  
-- Velegnede til brug i både klinik og hjemmemiljø  
+- Velegnede til brug i både klinik og hjemme  
 
 Teknologien kan understøtte tidlig opsporing af komplikationer, rettidig indsats og mere personligt tilpassede behandlingsforløb. Vi ser også muligheder for at udvide brugen af vokale biomarkører til andre sygdomsområder, hvor stemmen kan afspejle ændringer i helbredet.
 
