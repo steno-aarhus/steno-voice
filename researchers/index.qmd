@@ -1,9 +1,7 @@
 ---
-title: Researchers
+title: StenoVoice Research Overview
 description: If you want to know more about our research
 ---
-
-# StenoVoice Research Overview
 
 The StenoVoice project is an interdisciplinary initiative aiming to develop and validate vocal biomarkers for the risk assessment of diabetes-related complications. By integrating deep learning methods with multimodal data, including voice, we aim to provide novel tools for predicting and monitoring cardiovascular disease (CVD), neuropathy, and diabetes distress in people with diabetes. Our research spans methodological innovation, clinical application, and collaboration across international partners.
 
@@ -26,11 +24,8 @@ This study aims to:
 
 ## Methodology
 
-We use a multi-step approach to data processing and analysis:
-
-- **Voice Data:** Preprocessing includes filtering, silence removal, noise reduction, framing, windowing, feature extraction, and feature selection, among other things.
-- **Text Data:** Natural language processing techniques are applied to transcribed responses and extract features and embeddings from the context.
-- **Modeling:** Predictive models include both classical machine learning and deep learning approaches.
+- **Modeling:** We apply both classical machine learning methods and deep learning architectures to develop and evaluate vocal biomarkers. Our approach includes extracting handcrafted acoustic features from the audio signal and generating deep neural network–based embeddings. These representations serve as inputs to a diverse set of predictive models to assess their performance in identifying relevant vocal markers. In parallel, we fine-tune the underlying neural networks to examine whether task-specific adaptation improves predictive accuracy.
+- **Performance Metric:** We will look at discrimination and calibration as our primary performance metrics to compare the different vocal biomarkers. We will use internal validation to do so, since we only have this one Danish-speaking dataset available. In future work, we might validate the best-performing model on an external Danish-based dataset, if it becomes available.
 
 ## Collaborations
 
@@ -38,6 +33,7 @@ The project is conducted in collaboration with:
 
 - **Luxembourg Institute of Health**, with the involvement of Guy Fagherazzi, Director of the Department of Precision Health & Head of the "Deep Digital Phenotyping" Research Unit
 - **Steno Diabetes Center Copenhagen**, with the involvement of Christian Stevns Hansen
+- **Aarhus University**, with the involvement of Stefan Rahr Wagner, Associate Professor at the Department of Electrical and Computer Engineering, Biomedical Engineering & student developers.
 
 ## Preliminary Work and Feasibility
 
@@ -52,7 +48,7 @@ The project is conducted in collaboration with:
 
 ## Publications and Resources
 
-- Preprint manuscripts will be available on [medRxiv / arXiv links].
+- Preprint manuscripts will be available on medRxiv/arXiv.
 - Code will be shared via GitHub.
 <!--
 - [Add links to relevant previous publications by team members.]
