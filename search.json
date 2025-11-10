@@ -128,65 +128,65 @@
   {
     "objectID": "researchers/index.html",
     "href": "researchers/index.html",
-    "title": "Researchers",
+    "title": "StenoVoice Research Overview",
     "section": "",
-    "text": "The StenoVoice project is an interdisciplinary initiative aiming to develop and validate vocal biomarkers for the risk assessment of diabetes-related complications. By integrating deep learning methods with multimodal data, including voice, we aim to provide novel tools for predicting and monitoring cardiovascular disease (CVD), neuropathy, and diabetes distress in people with diabetes. Our research spans methodological innovation, clinical application, and collaboration across international partners.\n\n\n\n\nThis study focuses on:\n\nInitiating voice data collection nested in an existing population-based cohort, i.e., Health in Central Denmark (HICD), and to identify and validate vocal biomarkers for CVD in the general population.\n\n\n\n\nThis study seeks to:\n\nIdentify vocal biomarkers of neuropathy in people with type 1 diabetes (T1D) and type 2 diabetes (T2D).\n\n\n\n\nThis study aims to:\n\nDevelop a multimodal approach to detect diabetes distress based on voice recordings and audio transcriptions by people with T1D and T2D.\n\n\n\n\n\nWe use a multi-step approach to data processing and analysis:\n\nVoice Data: Preprocessing includes filtering, silence removal, noise reduction, framing, windowing, feature extraction, and feature selection, among other things.\nText Data: Natural language processing techniques are applied to transcribed responses and extract features and embeddings from the context.\nModeling: Predictive models include both classical machine learning and deep learning approaches.\n\n\n\n\nThe project is conducted in collaboration with:\n\nLuxembourg Institute of Health, with the involvement of Guy Fagherazzi, Director of the Department of Precision Health & Head of the “Deep Digital Phenotyping” Research Unit\nSteno Diabetes Center Copenhagen, with the involvement of Christian Stevns Hansen\n\n\n\n\n\nUpdated continuously\n\n\n\n\n\nPrincipal Investigator: Adam Hulman, Associate Professor at the Department of Public Health, Aarhus University & Senior Data Scientist at Steno Diabetes Center Aarhus\nPhD Student: Manuel Thomasen, Steno Diabetes Center Aarhus & Department of Public Health, Aarhus University\nAffiliated Lab: Machine Learning and Clinical Prediction HulmanLab, Steno Diabetes Center Aarhus.\n\n\n\n\n\nPreprint manuscripts will be available on [medRxiv / arXiv links].\nCode will be shared via GitHub. \n\n\n\n\nFor questions or collaboration opportunities, please contact:\nAdam Hulman, Associate Professor\nadahul@rm.dk\nManuel Thomasen\nmanuth@rm.dk / manuth@ph.au.dk\nWe welcome researchers interested in digital health, vocal biomarkers, and diabetes epidemiology to reach out for collaboration or discussion.\n\n\n\nThis work was supported by a research grant from the Danish Diabetes and Endocrine Academy, funded by the Novo Nordisk Foundation (NNF22SA0079901), and the Danish Data Science Academy, funded by the Novo Nordisk Foundation (NNF21SA0069429), and by Steno Diabetes Center Aarhus which is partly funded by a donation from the Novo Nordisk Foundation (NNF17SA0031230), and by a Data Science Emerging Investigator grant (NNF22OC0076725) by the Novo Nordisk Foundation, and funds by Aarhus University, Department of Public Health."
+    "text": "The StenoVoice project is an interdisciplinary initiative aiming to develop and validate vocal biomarkers for the risk assessment of diabetes-related complications. By integrating deep learning methods with multimodal data, including voice, we aim to provide novel tools for predicting and monitoring cardiovascular disease (CVD), neuropathy, and diabetes distress in people with diabetes. Our research spans methodological innovation, clinical application, and collaboration across international partners."
   },
   {
     "objectID": "researchers/index.html#research-objectives",
     "href": "researchers/index.html#research-objectives",
-    "title": "Researchers",
-    "section": "",
-    "text": "This study focuses on:\n\nInitiating voice data collection nested in an existing population-based cohort, i.e., Health in Central Denmark (HICD), and to identify and validate vocal biomarkers for CVD in the general population.\n\n\n\n\nThis study seeks to:\n\nIdentify vocal biomarkers of neuropathy in people with type 1 diabetes (T1D) and type 2 diabetes (T2D).\n\n\n\n\nThis study aims to:\n\nDevelop a multimodal approach to detect diabetes distress based on voice recordings and audio transcriptions by people with T1D and T2D."
+    "title": "StenoVoice Research Overview",
+    "section": "Research Objectives",
+    "text": "Research Objectives\n\nStudy 1: Vocal Biomarkers for Cardiovascular Disease\nThis study focuses on:\n\nInitiating voice data collection nested in an existing population-based cohort, i.e., Health in Central Denmark (HICD), and to identify and validate vocal biomarkers for CVD in the general population.\n\n\n\nStudy 2: Vocal Biomarkers for Diabetic Neuropathy\nThis study seeks to:\n\nIdentify vocal biomarkers of neuropathy in people with type 1 diabetes (T1D) and type 2 diabetes (T2D).\n\n\n\nStudy 3: Multimodal Assessment of Diabetes Distress\nThis study aims to:\n\nDevelop a multimodal approach to detect diabetes distress based on voice recordings and audio transcriptions by people with T1D and T2D."
   },
   {
     "objectID": "researchers/index.html#methodology",
     "href": "researchers/index.html#methodology",
-    "title": "Researchers",
-    "section": "",
-    "text": "We use a multi-step approach to data processing and analysis:\n\nVoice Data: Preprocessing includes filtering, silence removal, noise reduction, framing, windowing, feature extraction, and feature selection, among other things.\nText Data: Natural language processing techniques are applied to transcribed responses and extract features and embeddings from the context.\nModeling: Predictive models include both classical machine learning and deep learning approaches."
+    "title": "StenoVoice Research Overview",
+    "section": "Methodology",
+    "text": "Methodology\n\nModeling: We apply both classical machine learning methods and deep learning architectures to develop and evaluate vocal biomarkers. Our approach includes extracting handcrafted acoustic features from the audio signal and generating deep neural network–based embeddings. These representations serve as inputs to a diverse set of predictive models to assess their performance in identifying relevant vocal markers. In parallel, we fine-tune the underlying neural networks to examine whether task-specific adaptation improves predictive accuracy.\nPerformance Metric: We will look at discrimination and calibration as our primary performance metrics to compare the different vocal biomarkers. We will use internal validation to do so, since we only have this one Danish-speaking dataset available. In future work, we might validate the best-performing model on an external Danish-based dataset, if it becomes available."
   },
   {
     "objectID": "researchers/index.html#collaborations",
     "href": "researchers/index.html#collaborations",
-    "title": "Researchers",
-    "section": "",
-    "text": "The project is conducted in collaboration with:\n\nLuxembourg Institute of Health, with the involvement of Guy Fagherazzi, Director of the Department of Precision Health & Head of the “Deep Digital Phenotyping” Research Unit\nSteno Diabetes Center Copenhagen, with the involvement of Christian Stevns Hansen"
+    "title": "StenoVoice Research Overview",
+    "section": "Collaborations",
+    "text": "Collaborations\nThe project is conducted in collaboration with:\n\nLuxembourg Institute of Health, with the involvement of Guy Fagherazzi, Director of the Department of Precision Health & Head of the “Deep Digital Phenotyping” Research Unit\nSteno Diabetes Center Copenhagen, with the involvement of Christian Stevns Hansen\nAarhus University, with the involvement of Stefan Rahr Wagner, Associate Professor at the Department of Electrical and Computer Engineering, Biomedical Engineering & student developers."
   },
   {
     "objectID": "researchers/index.html#preliminary-work-and-feasibility",
     "href": "researchers/index.html#preliminary-work-and-feasibility",
-    "title": "Researchers",
-    "section": "",
-    "text": "Updated continuously"
+    "title": "StenoVoice Research Overview",
+    "section": "Preliminary Work and Feasibility",
+    "text": "Preliminary Work and Feasibility\n\nUpdated continuously"
   },
   {
     "objectID": "researchers/index.html#research-team",
     "href": "researchers/index.html#research-team",
-    "title": "Researchers",
-    "section": "",
-    "text": "Principal Investigator: Adam Hulman, Associate Professor at the Department of Public Health, Aarhus University & Senior Data Scientist at Steno Diabetes Center Aarhus\nPhD Student: Manuel Thomasen, Steno Diabetes Center Aarhus & Department of Public Health, Aarhus University\nAffiliated Lab: Machine Learning and Clinical Prediction HulmanLab, Steno Diabetes Center Aarhus."
+    "title": "StenoVoice Research Overview",
+    "section": "Research Team",
+    "text": "Research Team\n\nPrincipal Investigator: Adam Hulman, Associate Professor at the Department of Public Health, Aarhus University & Senior Data Scientist at Steno Diabetes Center Aarhus\nPhD Student: Manuel Thomasen, Steno Diabetes Center Aarhus & Department of Public Health, Aarhus University\nAffiliated Lab: Machine Learning and Clinical Prediction HulmanLab, Steno Diabetes Center Aarhus."
   },
   {
     "objectID": "researchers/index.html#publications-and-resources",
     "href": "researchers/index.html#publications-and-resources",
-    "title": "Researchers",
-    "section": "",
-    "text": "Preprint manuscripts will be available on [medRxiv / arXiv links].\nCode will be shared via GitHub."
+    "title": "StenoVoice Research Overview",
+    "section": "Publications and Resources",
+    "text": "Publications and Resources\n\nPreprint manuscripts will be available on medRxiv/arXiv.\nCode will be shared via GitHub."
   },
   {
     "objectID": "researchers/index.html#contact",
     "href": "researchers/index.html#contact",
-    "title": "Researchers",
-    "section": "",
-    "text": "For questions or collaboration opportunities, please contact:\nAdam Hulman, Associate Professor\nadahul@rm.dk\nManuel Thomasen\nmanuth@rm.dk / manuth@ph.au.dk\nWe welcome researchers interested in digital health, vocal biomarkers, and diabetes epidemiology to reach out for collaboration or discussion."
+    "title": "StenoVoice Research Overview",
+    "section": "Contact",
+    "text": "Contact\nFor questions or collaboration opportunities, please contact:\nAdam Hulman, Associate Professor\nadahul@rm.dk\nManuel Thomasen\nmanuth@rm.dk / manuth@ph.au.dk\nWe welcome researchers interested in digital health, vocal biomarkers, and diabetes epidemiology to reach out for collaboration or discussion."
   },
   {
     "objectID": "researchers/index.html#supported-by",
     "href": "researchers/index.html#supported-by",
-    "title": "Researchers",
-    "section": "",
-    "text": "This work was supported by a research grant from the Danish Diabetes and Endocrine Academy, funded by the Novo Nordisk Foundation (NNF22SA0079901), and the Danish Data Science Academy, funded by the Novo Nordisk Foundation (NNF21SA0069429), and by Steno Diabetes Center Aarhus which is partly funded by a donation from the Novo Nordisk Foundation (NNF17SA0031230), and by a Data Science Emerging Investigator grant (NNF22OC0076725) by the Novo Nordisk Foundation, and funds by Aarhus University, Department of Public Health."
+    "title": "StenoVoice Research Overview",
+    "section": "Supported by:",
+    "text": "Supported by:\nThis work was supported by a research grant from the Danish Diabetes and Endocrine Academy, funded by the Novo Nordisk Foundation (NNF22SA0079901), and the Danish Data Science Academy, funded by the Novo Nordisk Foundation (NNF21SA0069429), and by Steno Diabetes Center Aarhus which is partly funded by a donation from the Novo Nordisk Foundation (NNF17SA0031230), and by a Data Science Emerging Investigator grant (NNF22OC0076725) by the Novo Nordisk Foundation, and funds by Aarhus University, Department of Public Health."
   },
   {
     "objectID": "participants/index.html",
