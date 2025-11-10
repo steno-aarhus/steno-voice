@@ -22,7 +22,7 @@ Deltagelse i StenoVoice-projektet kan ske på to måder:
 
 ### 1. **StenoVoice Online (online deltagelse)**
 
-Vi inviterer personer fra Helbred Midt-kohorten til at deltage i en online undersøgelse. Invitationen sendes via e-Boks, og deltagerne bedes besvare et spørgeskema og optage stemmeoptagelser fra hjemmet.
+Vi inviterer personer fra Helbred Midt-kohorten til at deltage i en online undersøgelse. Invitationen sendes via mail og E-boks og deltagerne bedes besvare et spørgeskema og optage stemmeopgaverne.
 
 Her anvendes information fra spørgeskemaet og de danske registre sammen med stemmeoptagelserne til at udvikle vokale biomarkører.
 
@@ -32,7 +32,7 @@ Her anvendes information fra spørgeskemaet og de danske registre sammen med ste
 
 ### 2. **StenoVoice (fysisk deltagelse)**
 
-På *Steno Diabetes Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jensens Boulevard 11, Indgang A, 8200 Aarhus N* har vi opstillet en lydtæt “mutebox”, hvor man kan bidrage til projektet ved at optage sin stemme. Deltagelse sker i forbindelse med Årssamtale eller Sammedagsscreening.
+På *Steno Diabetes Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jensens Boulevard 11, Indgang A, 8200 Aarhus N* har vi opstillet en lydtæt **mutebox**, hvor man kan bidrage til projektet ved at optage sin stemme. Deltagelse sker i forbindelse med Årssamtale eller Sammedagsscreening.
 
 Ved ankomst henvender man sig til en medarbejder, som hjælper med at starte forløbet. Herefter går man ind i boksen, udfylder et spørgeskema, laver en række stemmeopgaver og svarer på spørgsmål ved at indtale svarene.
 
