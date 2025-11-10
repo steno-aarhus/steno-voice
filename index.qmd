@@ -44,7 +44,7 @@ Oplysninger fra spørgeskemaet, sammedagsscreeningen og de danske registre kombi
 
 ## Fremtidsperspektiver
 
-I fremtiden håber vi, at teknologier, som StenoVoice, kan anvendes bredt i klinisk praksis som en del af regelmæssige sundhedstjek. Vi ser også et stort potentiale i at udvide teknologien til andre sygdomsområder, hvor vokale biomarkører kan bidrage til tidlig diagnostik og bedre risikovurdering.
+I fremtiden håber vi, at teknologier, som StenoVoice, kan anvendes af den brede befolkning og som en del af en regelmæssige sundhedstjek hos lægen. Vi ser et stort potentiale i at udvide teknologien til bred vifte af sygdomsområder, hvor vokale biomarkører kan bidrage til bedre og personlig behandling.
 
 ---
 ![Manuel(venstre) og Adam(højre)](images/Adam og Manuel.jpg)
