@@ -6,30 +6,29 @@ title: "StenoVoice"
 
 **StenoVoice** er et forskningsprojekt ved Steno Diabetes Center Aarhus, der undersøger, hvordan stemmen kan anvendes som en digital biomarkør til at forudsige og overvåge diabetesrelaterede komplikationer. Ved hjælp af avancerede metoder inden for kunstig intelligens og maskinlæring analyserer vi stemmeoptagelser for at identificere karakteristika i stemmen, der kan afspejle helbredstilstande såsom hjertekarsygdomme, diabetisk neuropati og diabetesrelateret stress.
 
-Diabetes kan påvirke flere organer og funktioner, som er centrale for stemmeproduktionen – bland andet nerver, muskler, lunger og hjernen. Tidligere studier har vist, at personer med type 2-diabetes kan opleve ændringer i stemmekvalitet, fx hæshed og stemmetræthed, hvilket kan være relateret til dårlig glykæmisk kontrol eller tilstedeværelse af neuropati.
+Diabetes kan påvirke flere organer og funktioner, som er centrale for stemmeproduktionen – bland andet stemmebånde, nerver, muskler, lunger og hjernen. Tidligere studier har vist, at man ved hjælp at stemmeoptagelser kan kende forskel på personer med og uden type 2 diabetes. Det tyder derfor på, at diabetes påvirker stemmen i en sådan grad, at en computer kan "høre" forskellen.
 
 ## Forskningsmål og studier
 
-Projektet er organiseret i tre hovedstudier med hver deres specifikke forskningsspørgsmål:
+Projektet er organiseret i to hovedstudier:
 
-1. **Vokale biomarkører for hjertekarsygdomme**  
-   Formålet med dette studie er at identificere og validere vokale biomarkører, der kan forudsige hjertekarsygdomme. Data stammer fra stemmeoptagelser og kliniske oplysninger fra den regionale kohorte **Helbred Midt**, samt stemmeoptagelser og kliniske oplysninger fra sammedagsscreenning på hospitalet.
+1. **StenoVoice**  
+   I StenoVoice projektet indsamler vi stemmeoptagelser fra personer, der besøger Steno Diabetes Center Aarhus til sammedagsscreening eller årssamtale. Disse optagelser udføres i en **Mutebox** (lydisoleret rum) med **professionelt mikrofonudstyr**. I dette setup kan vi kontrolere miljøet stemmerne optages under, samt understøtte den højeste kvalitete og bedste representation af signalet fra stemmen.
 
-2. **Vokale biomarkører for diabetisk neuropati**  
-   Dette studie undersøger, hvorvidt diabetisk neuropati påvirker stemmen hos personer med type 1 og type 2-diabetes, og om disse ændringer i stemmen kan identificeres uafhængigt af andre kendte risikofaktorer.
+2. **StenoVoice-HICD**
+   I StenoVoice-HICD stammer dataindsamlingen fra personer i kohorten **Helbred Midt**, hvor deltagerne besvare et spørgeskema og optager deres stemme via en browser. I dette setup har vi ikke mulighed for at kontrollere miljøet som optagelserne foretages under, men deridmod en vel etableret kohorte.
 
-3. **Vokale biomarkører til vurdering af diabetesrelateret stress**  
-   Her anvendes en multimodal tilgang til at identificere sproglige og vokale signaler på diabetesrelateret stress. Deltagerne besvarer åbne spørgsmål om deres liv med diabetes, og både stemme og indhold analyseres.
+Formållet for begge stuider er, at udvikle og undersøge vokale biomarker til diabetes-relaterede følgesygdomme.
 
 ## Dataindsamling og anvendte metoder
 
 Deltagerne udfører forskellige stemmeopgaver, herunder:
-
-- At læse en kort tekst højt  
-- At tælle fra 1 til 20  
-- At sige en lang 'aaa'-lyd  
-- At gentage stavelserne *Pa-Ta-Ka* hurtigt i 10 sekunder  
-- At besvare åbne spørgsmål med egne ord
+  
+- at sage "a" vokal lyde så længe som muligt
+- at tælle fra 1 til 20  
+- at gentage stavelserne *Pa-Ta-Ka* hurtigt i 10 sekunder
+- at læse en kort tekst højt
+- at besvare åbne spørgsmål med egne ord
 
 Optagelserne analyseres ved hjælp af avanceret metoder inden for kunstig intelligens og maskinlæring. Vi afprøver forskellige tekniske tilgange og repræsentationer af stemmen (f.eks. spektrogrammer og embeddings) for at udvikle de mest informative og robuste vokale biomarkører.
 
@@ -39,10 +38,10 @@ StenoVoice har potentiale til at bidrage væsentligt til fremtidens sundhedsvæs
 
 - Ikke-invasive  
 - Let tilgængelige  
-- Billige at indsamle  
+- Resourceeffektive
 - Velegnede til brug i både klinik og hjemme  
 
-Teknologien kan understøtte tidlig opsporing af komplikationer, rettidig indsats og mere personligt tilpassede behandlingsforløb. Vi ser også muligheder for at udvide brugen af vokale biomarkører til andre sygdomsområder, hvor stemmen kan afspejle ændringer i helbredet.
+Teknologien forventes at kunne understøtte tidlig opsporing af komplikationer, rettidig indsats og mere personligt tilpassede behandlingsforløb.
 
 ## Kontakt og projektledelse
 
