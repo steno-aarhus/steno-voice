@@ -26,9 +26,8 @@ Vi inviterer personer fra Helbred Midt-kohorten til at deltage i en online under
 
 Her anvendes information fra spørgeskemaet og de danske registre sammen med stemmeoptagelserne til at udvikle vokale biomarkører.
 
-<!-- *Se videoen nedenfor for at få indblik i online-deltagelsen:*  
-[Video-link]
--->
+Se videoen nedenfor for at få indblik i online-deltagelsen:*  
+<div style="width:100%; height:0; position: relative; padding-bottom:56.25%"><iframe title="Video Player" src="https://region-midtjylland.23video.com/v.ihtml/player.html?token=cc3439a293fc5e24d37d854ee72e5018&source=embed&photo%5fid=118417958&endOn=" style="width:100%; height:100%; position: absolute; top: 0; left: 0;" frameborder="0" border="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen"></iframe></div>
 
 ### 2. **StenoVoice (fysisk deltagelse)**
 
@@ -38,9 +37,7 @@ Ved ankomst henvender man sig til en medarbejder, som hjælper med at starte for
 
 Oplysninger fra spørgeskemaet, sammedagsscreeningen og de danske registre kombineres med stemmeoptagelserne og danner grundlag for udviklingen af vokale biomarkører.
 
-<!-- *Se videoen nedenfor for at få indblik i, hvordan deltagelsen foregår:*  
-[Video-link]
--->
+<div style="width:100%; height:0; position: relative; padding-bottom:56.25%"><iframe title="Video Player" src="https://region-midtjylland.23video.com/v.ihtml/player.html?token=460e3728039aea8399573ccdf9f65f78&source=embed&photo%5fid=118417938&endOn=" style="width:100%; height:100%; position: absolute; top: 0; left: 0;" frameborder="0" border="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen"></iframe></div>
 
 ## Fremtidsperspektiver
 
