@@ -18,6 +18,8 @@ website:
             href: "https://steno-aarhus.github.io/steno-voice/researchers"
           - text: "SOP"
             href: "https://steno-aarhus.github.io/steno-voice/SOP"
+          - text: "Spørgsmål og Svar"
+            href: "https://steno-aarhus.github.io/steno-voice/FAQ"
     tools:
       - icon: github
         href: "https://github.com/steno-aarhus/"
