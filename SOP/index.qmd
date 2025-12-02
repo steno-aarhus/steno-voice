@@ -56,9 +56,9 @@ Det er medarbejderens ansvar at sikre, at deltageren informeres og vejledes tils
 
 ## 5.4 Afslutning
 
-7. Når alle opgaver er gennemført, informeres deltageren om, at forløbet er afsluttet.  
-8. Deltageren forlader Muteboksen.  
-9. Medarbejderen sikrer, at Muteboksen ryddes og klargøres til næste deltager.
+8. Når alle opgaver er gennemført, informeres deltageren om, at forløbet er afsluttet.  
+9. Deltageren forlader Muteboksen.  
+10. Medarbejderen sikrer, at Muteboksen ryddes og klargøres til næste deltager.
 
 # 6. Kvalitetssikring
 
