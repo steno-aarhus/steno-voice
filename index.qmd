@@ -4,6 +4,8 @@ title: "Velkommen til StenoVoice"
 
 ## Når stemmen bliver et vindue til helbredet
 
+<div style="width:100%; height:0; position: relative; padding-bottom:56.25%"><iframe title="Video Player" src="https://region-midtjylland.23video.com/11389131.ihtml/player.html?token=42873f5b84dfdb9248f078a776dc65f6&source=embed&photo%5fid=119927663&endOn=" style="width:100%; height:100%; position: absolute; top: 0; left: 0;" frameborder="0" border="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen"></iframe></div>
+
 ## Formål
 
 StenoVoice er et forskningsprojekt ved Steno Diabetes Center Aarhus og Aarhus Universitet, hvor vi undersøger, om stemmen kan bruges som et værktøj til at vurdere risikoen for komplikationer og sygdomsudvikling hos personer med diabetes – f.eks. hjertekarsygdomme og nerveskader. Ved hjælp af kunstig intelligens og maskinlæring analyserer vi stemmeoptagelser for at identificere **vokale biomarkører** – karakteristika i stemmen, der afspejler helbredet.
