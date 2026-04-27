@@ -24,9 +24,6 @@ website:
       - icon: github
         href: "https://github.com/steno-aarhus/"
         aria-label: "GitHub icon: Link to SDCA GitHub organization page"
-      - icon: globe
-        href: directory.qmd
-        aria-label: "Globe icon: Link to directory page of other SDCA websites"
 
 format: sdca-theme-html
 
