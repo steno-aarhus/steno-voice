@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/SOP/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.283Z</lastmod>
+    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
+    <lastmod>2026-08-25T07:14:19.250Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.290Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/participants/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.290Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/researchers/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.290Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/StenoVoice-Mutebox/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/StenoVoice-HICD/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/FAQ/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.283Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
-    <lastmod>2026-05-12T07:44:01.289Z</lastmod>
+    <lastmod>2026-08-25T07:14:19.251Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/LICENSE.html</loc>
-    <lastmod>2026-05-12T07:44:01.283Z</lastmod>
+    <lastmod>2026-08-25T07:14:19.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/StenoVoice-HICD/index.html</loc>
+    <lastmod>2026-08-25T07:14:19.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/StenoVoice-Mutebox/index.html</loc>
+    <lastmod>2026-08-25T07:14:19.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/participants/index.html</loc>
+    <lastmod>2026-08-25T07:14:19.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/researchers/index.html</loc>
+    <lastmod>2026-08-25T07:14:19.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/SOP/index.html</loc>
+    <lastmod>2026-08-25T07:14:19.246Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/FAQ/index.html</loc>
+    <lastmod>2026-08-25T07:14:19.246Z</lastmod>
   </url>
 </urlset>
