@@ -1,5 +1,5 @@
 ---
-title: "StenoVoice-Mutebox"
+title: "StenoVoice"
 ---
 
 <div style="width:100%; height:0; position: relative; padding-bottom:56.25%"><iframe title="Video Player" src="https://region-midtjylland.23video.com/v.ihtml/player.html?token=460e3728039aea8399573ccdf9f65f78&source=embed&photo%5fid=118417938&endOn=" style="width:100%; height:100%; position: absolute; top: 0; left: 0;" frameborder="0" border="0" scrolling="no" allowfullscreen allow="autoplay; fullscreen"></iframe></div>
@@ -12,3 +12,9 @@ Hvis du ønsker at deltage, bedes du venligst læse oplysningsskemaet og samtykk
 - [Samtykkeerklæring](Samtykkeerklæring StenoVoice - 20082026.pdf)
 
 Deltagelse i StenoVoice-projektet kan ske på følgende måde:
+
+På *Steno Diabetes Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jensens Boulevard 11, Indgang A, 8200 Aarhus N* har vi opstillet en lydtæt **mutebox**, hvor man kan bidrage til projektet ved at optage sin stemme. Deltagelse sker i forbindelse med Årssamtale eller Sammedagsscreening.
+
+Ved ankomst henvender man sig til en medarbejder, som hjælper en med at komme i gang. Deltagelsen foregår inde i boksen. Her udfylder man et spørgeskema, laver en række stemmeopgaver og svarer på spørgsmål ved at indtale svarene.
+
+Oplysninger fra spørgeskemaet, sammedagsscreeningen og de danske registre kombineres med stemmeoptagelserne og danner grundlag for udviklingen af vokale biomarkører.
