@@ -18,3 +18,11 @@ På *Steno Diabetes Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jense
 Ved ankomst henvender man sig til en medarbejder, som hjælper en med at komme i gang. Deltagelsen foregår inde i boksen. Her udfylder man et spørgeskema, laver en række stemmeopgaver og svarer på spørgsmål ved at indtale svarene.
 
 Oplysninger fra spørgeskemaet, sammedagsscreeningen og de danske registre kombineres med stemmeoptagelserne og danner grundlag for udviklingen af vokale biomarkører.
+
+## Kontakt
+
+**PI: Adam Hulman, Associate Professor**  
+[adahul@rm.dk](mailto:adahul@rm.dk)
+
+**Projektansvarlig og Ph.d.-studerende: Manuel Thomasen**  
+[manuth@rm.dk](mailto:manuth@rm.dk) / [manuth@ph.au.dk](mailto:manuth@ph.au.dk)
