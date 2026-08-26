@@ -8,8 +8,8 @@ title: "StenoVoice"
 
 Hvis du ønsker at deltage, bedes du venligst læse oplysningsskemaet og samtykkeerklæringen inden deltagelsen.
 
-- [Oplysningsskema](Oplysningsskema StenoVoice - 20082026.pdf)
-- [Samtykkeerklæring](Samtykkeerklæring StenoVoice - 20082026.pdf)
+- [Oplysningsskema](steno-voice/Oplysningsskema StenoVoice - 20082026.pdf)
+- [Samtykkeerklæring](steno-voice/Samtykkeerklæring StenoVoice - 20082026.pdf)
 
 Deltagelse i StenoVoice-projektet kan ske på følgende måde:
 
