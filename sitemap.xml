@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.829Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/LICENSE.html</loc>
-    <lastmod>2026-08-26T09:13:50.821Z</lastmod>
+    <loc>https://steno-aarhus.github.io/steno-voice/researchers/index.html</loc>
+    <lastmod>2026-09-23T08:43:02.531Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/StenoVoice-HICD/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.822Z</lastmod>
+    <lastmod>2026-09-23T08:43:02.524Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/StenoVoice-Mutebox/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.823Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/participants/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.830Z</lastmod>
-  </url>
-  <url>
-    <loc>https://steno-aarhus.github.io/steno-voice/researchers/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.830Z</lastmod>
+    <lastmod>2026-09-23T08:43:02.525Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/SOP/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.822Z</lastmod>
+    <lastmod>2026-09-23T08:43:02.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/index.html</loc>
+    <lastmod>2026-09-23T08:43:02.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/LICENSE.html</loc>
+    <lastmod>2026-09-23T08:43:02.522Z</lastmod>
   </url>
   <url>
     <loc>https://steno-aarhus.github.io/steno-voice/FAQ/index.html</loc>
-    <lastmod>2026-08-26T09:13:50.820Z</lastmod>
+    <lastmod>2026-09-23T08:43:02.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/participants/index.html</loc>
+    <lastmod>2026-09-23T08:43:02.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://steno-aarhus.github.io/steno-voice/about/index.html</loc>
+    <lastmod>2026-09-23T08:43:02.530Z</lastmod>
   </url>
 </urlset>
